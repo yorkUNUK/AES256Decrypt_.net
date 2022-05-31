@@ -1,0 +1,13 @@
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/bin/Debug/netcoreapp3.1/CallBackDecrypt.deps.json
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/bin/Debug/netcoreapp3.1/CallBackDecrypt.runtimeconfig.json
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/bin/Debug/netcoreapp3.1/CallBackDecrypt.runtimeconfig.dev.json
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/bin/Debug/netcoreapp3.1/CallBackDecrypt.dll
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/bin/Debug/netcoreapp3.1/CallBackDecrypt.pdb
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/obj/Debug/netcoreapp3.1/CallBackDecrypt.csproj.AssemblyReference.cache
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/obj/Debug/netcoreapp3.1/CallBackDecrypt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/obj/Debug/netcoreapp3.1/CallBackDecrypt.AssemblyInfoInputs.cache
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/obj/Debug/netcoreapp3.1/CallBackDecrypt.AssemblyInfo.cs
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/obj/Debug/netcoreapp3.1/CallBackDecrypt.csproj.CoreCompileInputs.cache
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/obj/Debug/netcoreapp3.1/CallBackDecrypt.dll
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/obj/Debug/netcoreapp3.1/CallBackDecrypt.pdb
+/Users/edianyun/Downloads/CallBackDecrypt/CallBackDecrypt/obj/Debug/netcoreapp3.1/CallBackDecrypt.genruntimeconfig.cache

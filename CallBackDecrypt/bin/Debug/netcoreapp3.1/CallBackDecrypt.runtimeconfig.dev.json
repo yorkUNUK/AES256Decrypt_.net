@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/edianyun/.dotnet/store/|arch|/|tfm|",
+      "/Users/edianyun/.nuget/packages"
+    ]
+  }
+}
